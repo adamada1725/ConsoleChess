@@ -1,1 +1,1 @@
-Chess console c++
+ConsoleChessC++
